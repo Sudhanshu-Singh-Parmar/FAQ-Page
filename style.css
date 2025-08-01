@@ -23,7 +23,9 @@ section span {
 
 main {
     background-color: #F8FAFC;
-    padding: 70px 400px;
+    padding: 70px 20px;
+    display: flex;
+    justify-content: center;
 }
 
 ol, ul {
@@ -49,4 +51,5 @@ a {
 
 .c {
     max-width: 700px;
+    width: 100%;
 }
